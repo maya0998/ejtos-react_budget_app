@@ -27,7 +27,12 @@
 .App-link {
   color: #61dafb;
 }
-
+.list-currency{
+  background-color:#93E499 !important;
+}
+#text-currency{
+  margin-left:15px;
+}
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
